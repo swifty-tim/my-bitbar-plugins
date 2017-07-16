@@ -6,7 +6,9 @@
  * <bitbar.author>Timothy Barnard</bitbar.author>
  * <bitbar.author.github>collegboi</bitbar.author.github>
  * <bitbar.desc>Displays a list of bluetooth devices and battery status</bitbar.desc>
+ *<bitbar.image>https://raw.githubusercontent.com/collegboi/my-bitbar-plugins/master/BluetoothBattery/Battery.png</bitbar.image>
  * <bitbar.dependencies>Xcode,swift</bitbar.dependencies>
+
  */
 
 import Foundation
